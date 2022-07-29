@@ -41,7 +41,7 @@ $("document").ready(function(){
 
             case "Default":{
                 $("html").css("background-color","black");
-                $("#wear").attr("src","images/hanger.jpg");
+                $("#wear").attr("src","images/hanger.png");
                 $("#logo").attr("src","images/four-seasons.gif");
                 $("header h3").text("Default is always the best outfit");
             };
